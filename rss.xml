@@ -930,7 +930,7 @@
         <title>Episode 114: Account Enumeration, Github Actions</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_114.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_114.mp3" length="39103560" type="audio/x-mp3"/>
-        <pubDate>Nov, 10 Nov 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 10 Nov 2020 11:00:00 -0700</pubDate>
         <description>Seth and Ken discuss account enumeration vulnerabilities and open source tools that take advantage of them. Discussion about the recent Github Actions vulnerability.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -938,7 +938,7 @@
         <title>Episode 115: Clint Gibler - Static Analysis with Semgrep</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_115.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_115.mp3" length="47815856" type="audio/x-mp3"/>
-        <pubDate>Nov, 17 Nov 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 17 Nov 2020 11:00:00 -0700</pubDate>
         <description>Clint Gibler (@clintgibler) joins Seth and Ken to talk about Static Analysis with Semgrep. Demonstrations of writing rules within Semgrep and how to use it.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -946,8 +946,16 @@
         <title>Episode 116: Lewis Ardern and Pwnfunction - Client-Side JavaScript Security </title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_116.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_116.mp3" length="41856388" type="audio/x-mp3"/>
-        <pubDate>Nov, 24 Nov 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 24 Nov 2020 11:00:00 -0700</pubDate>
         <description>Lewis Ardern (@LewisArdern) and Pwnfunction (@pwnfunction) join Seth and Ken to talk client-side JavaScript security and their recent Vue JS blog post. https://portswigger.net/research/evading-defences-using-vuejs-script-gadgets</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 117: Solarwinds, Timing Attacks, Threat Dragon </title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_117.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_117.mp3" length="34978560" type="audio/x-mp3"/>
+        <pubDate>Tue, 22 Dec 2020 11:00:00 -0700</pubDate>
+        <description>The dynamic duo is back for their last podcast of 2020!</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
