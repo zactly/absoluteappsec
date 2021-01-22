@@ -966,6 +966,14 @@
         <description>Seth and Ken return with a discussion about application security in the news, including relevance to the Parler "backups". Also discussions about Twitter and latest political developments and how they affect the security industry.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 119: Bugtraq, Web Cache Poisoning, and Blind SSRF</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_119.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_119.mp3" length="36033462" type="audio/x-mp3"/>
+        <pubDate>Tue, 19 Jan 2020 11:00:00 -0700</pubDate>
+        <description>Seth and Ken wax nostalgic about the old days due to the shut down of the Bugtraq Mailing List (RIP old friend). Further discussions on web cache poisoning and blind server-side request forgery (SSRF) exploits.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
