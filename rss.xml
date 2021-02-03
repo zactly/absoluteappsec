@@ -962,7 +962,7 @@
         <title>Episode 118: Parler, Twitter, and IDOR</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_118.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_118.mp3" length="40121599" type="audio/x-mp3"/>
-        <pubDate>Tue, 12 Jan 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 12 Jan 2021 11:00:00 -0700</pubDate>
         <description>Seth and Ken return with a discussion about application security in the news, including relevance to the Parler "backups". Also discussions about Twitter and latest political developments and how they affect the security industry.</description>
         <itunes:explicit>yes</itunes:explicit>
     </item>
@@ -970,7 +970,7 @@
         <title>Episode 119: Bugtraq, Web Cache Poisoning, and Blind SSRF</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_119.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_119.mp3" length="36033462" type="audio/x-mp3"/>
-        <pubDate>Tue, 19 Jan 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 19 Jan 2021 11:00:00 -0700</pubDate>
         <description>Seth and Ken wax nostalgic about the old days due to the shut down of the Bugtraq Mailing List (RIP old friend). Further discussions on web cache poisoning and blind server-side request forgery (SSRF) exploits.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
@@ -978,8 +978,16 @@
         <title>Episode 120: OWASP Top 10 2021, Researcher Attacks, Parler, Phishing</title>
         <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_120.mp3</link>
         <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_120.mp3" length="32321919" type="audio/x-mp3"/>
-        <pubDate>Tue, 26 Jan 2020 11:00:00 -0700</pubDate>
+        <pubDate>Tue, 26 Jan 2021 11:00:00 -0700</pubDate>
         <description>Seth and Ken discuss the proposed 2021 OWASP Top 10 Risks, North Korean attacks against security researchers, password managers, latest in Parler de-platforming, and phishing possibilities.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
+        <title>Episode 121: Stefan Edwards (@lojikil) - Formal Specification, Fuzzing, LangSec</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_121.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_121.mp3" length="46966287" type="audio/x-mp3"/>
+        <pubDate>Tue, 02 Feb 2021 11:00:00 -0700</pubDate>
+        <description>Stefan Edwards (@lojikil) once again joins Seth and Ken to talk all things LangSec (language security). Discussion ranges from manual vs. automated testing to fuzzing to semantic analysis to formal specification.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
 </channel>
