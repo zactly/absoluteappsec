@@ -990,6 +990,14 @@
         <description>Stefan Edwards (@lojikil) once again joins Seth and Ken to talk all things LangSec (language security). Discussion ranges from manual vs. automated testing to fuzzing to semantic analysis to formal specification.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 122: Brian Glas (@infosecdad) - OWASP Top 10 2021</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_122.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_122.mp3" length="51181303" type="audio/x-mp3"/>
+        <pubDate>Thu, 18 Feb 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken welcome back Professor Brian Glas (@infosecdad) to dispel the recent OWASP Top 10 2021 speculation and rumor. We talk through the origins and purpose of the OWASP Top 10 as well as the 2021 call for data and upcoming release.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
