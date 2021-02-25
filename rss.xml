@@ -998,6 +998,14 @@
         <description>Seth and Ken welcome back Professor Brian Glas (@infosecdad) to dispel the recent OWASP Top 10 2021 speculation and rumor. We talk through the origins and purpose of the OWASP Top 10 as well as the 2021 call for data and upcoming release.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 123: Client-Side Controls, Dependency Confusion</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_123.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_123.mp3" length="35913419" type="audio/x-mp3"/>
+        <pubDate>Tue, 23 Feb 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss client-side controls and 3rd-party JavaScript security features. Confused deputy vulnerabilities (dependency confusion) in the news.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
