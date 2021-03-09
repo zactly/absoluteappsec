@@ -1014,6 +1014,14 @@
         <description>Seth and Ken discuss Portswigger's Top 10 Web Hacking Techniques of 2020, specifically injection attacks through images in PDFs and reverse proxies. Further discussion on creativity in development and how that affects and limits security.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 125: Interviews, SQLi, Concurrency, Wordpress</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_125.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_125.mp3" length="26370988" type="audio/x-mp3"/>
+        <pubDate>Tue, 09 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken discuss interviewing techniques for technical resources, SQL injection in the media and Github's recent concurrency vulnerability. Also a discussion on recent WordPress plugin vulnerabilities and why they are always so devastating.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
