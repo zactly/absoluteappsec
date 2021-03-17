@@ -1022,6 +1022,14 @@
         <description>Seth and Ken discuss interviewing techniques for technical resources, SQL injection in the media and Github's recent concurrency vulnerability. Also a discussion on recent WordPress plugin vulnerabilities and why they are always so devastating.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 126: Junior AppSec Positions, Phishing Site Detection, Client-side JavaScript</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_126.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_126.mp3" length="31107193" type="audio/x-mp3"/>
+        <pubDate>Tue, 16 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth and Ken are back on another Taco Tuesday to talk through getting into application security and how to support those new to the field. Also a discussion on phishing sites that detect VMs and other tools to bypass detection and observed client-side JavaScript attacks.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
