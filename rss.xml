@@ -1038,6 +1038,14 @@
         <description>Seth and Ken discuss the role of regular expressions in routing of web application requests. Discussion covers basics of routing, exploitation of secondary contexts, and bypassing of web application firewalls.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 128: Stefan Edwards/David Coursey - PHP, Backdoors, and AppSec Nihilism</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_128.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_128.mp3" length="46656018" type="audio/x-mp3"/>
+        <pubDate>Tue, 30 Mar 2021 11:00:00 -0700</pubDate>
+        <description>Seth hosts Stefan Edwards (@lojikil) and David Coursey (@dacoursey) discussing PHP's recent backdoor, probable fixes including code commit signing and the move to GitHub. THe discussion covers ease of security, developer tendencies when securing code, and application security nihilism.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
