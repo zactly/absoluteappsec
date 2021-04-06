@@ -1046,6 +1046,14 @@
         <description>Seth hosts Stefan Edwards (@lojikil) and David Coursey (@dacoursey) discussing PHP's recent backdoor, probable fixes including code commit signing and the move to GitHub. THe discussion covers ease of security, developer tendencies when securing code, and application security nihilism.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 129: Rey Bango - JQuery, Developer Relations, Security Education</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_129.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_129.mp3" length="45975657" type="audio/x-mp3"/>
+        <pubDate>Tue, 06 Apr 2021 11:00:00 -0700</pubDate>
+        <description>Rey Bango (@reybango) from Veracode joins Seth and Ken to talk about his path into security. Topics include JavaScript, JQuery, building relationships between security and relations, and how to educate the next generation of developers in security.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
