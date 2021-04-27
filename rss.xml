@@ -1070,6 +1070,14 @@
         <description>Jeevan Singh from Segment joins Seth and Ken to discuss the recently-released, open source threat modeling training material.</description>
         <itunes:explicit>no</itunes:explicit>
     </item>
+    <item>
+        <title>Episode 132: Supply Chain Attacks, What I Wish I Knew Starting in Security</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_132.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_132.mp3" length="34382642" type="audio/x-mp3"/>
+        <pubDate>Tue, 27 Apr 2021 11:00:00 -0700</pubDate>
+        <description>Ken and Seth are the dynamic duo revealing what they wish they knew starting in security and as a penetration tester. Also a discussion about supply chain attacks and a tribute to the late Dan Kaminski.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
 </channel>
 
 </rss>
