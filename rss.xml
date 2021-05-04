@@ -22,6 +22,14 @@
 		<link>https://absoluteappsec.com</link>
 		<title>Absolute AppSec</title>
 	</image>
+    <item>
+		<title>Episode 133: Rob Shavell - Privacy</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_133.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_133.mp3" length="32433429" type="audio/x-mp3"/>
+		<pubDate>Tue, 04 May 2021 11:00:00 -0700</pubDate>
+		<description>Rob Shavell from Abine.com joins Seth and Ken to talk about data privacy, social media, and industry concerns with tracking.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
 	<item>
 		<title>Episode 1: Introductions</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_1.mp3</link>
