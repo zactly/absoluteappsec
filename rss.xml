@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+		<title>Episode 135: Legal Protections, Browser Sanitization APIs, Burnout</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_134.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_134.mp3" length="36659645" type="audio/x-mp3"/>
+		<pubDate>Tue, 11 May 2021 11:00:00 -0700</pubDate>
+		<description>Statler and Waldorf meet again to discuss legal protections when conducting security testing, new browser APIs for sanitization of user-supplied content, how XSS is boring, and techniques for dealing with burnout.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
 		<title>Episode 133: Rob Shavell - Privacy</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_133.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_133.mp3" length="32433429" type="audio/x-mp3"/>
