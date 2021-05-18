@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+		<title>Episode 135: GoSDL, Language Choice, Kenna, Dependency Confusion</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_135.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_135.mp3" length="33584230" type="audio/x-mp3"/>
+		<pubDate>Tue, 18 May 2021 11:00:00 -0700</pubDate>
+		<description>Punchy and Grumpy are back at it starting with a discussion on GoSDL and how it integrates with developer workflows. Followed by a discussion on language choice/experience, Cisco's acquisition of Kenna Security, and more dependency confusion in gem files.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+    <item>
 		<title>Episode 134: Legal Protections, Browser Sanitization APIs, Burnout</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_134.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_134.mp3" length="36659645" type="audio/x-mp3"/>
