@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+		<title>Episode 137: CSRF, GraphQL, Kubernetes, Docker, NoSQL Injection</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_137.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_137.mp3" length="27923046" type="audio/x-mp3"/>
+		<pubDate>Tue, 08 Jun 2021 11:00:00 -0700</pubDate>
+		<description>Live from their parent's basement and dripping with tin foil - Seth and Ken talk about how CSRF is a thing in GraphQL. Kubernetes gets an intentionally-vulnerable setup, and you should definitely check the security of your docker. Finally, some noise about the NoSQL Injection Cheat Sheet.</description>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+    <item>
 		<title>Episode 136: AppSec Nihilism and Breaches</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_136.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_136.mp3" length="33875000" type="audio/x-mp3"/>
