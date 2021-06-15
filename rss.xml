@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+		<title>Episode 138: Ransomware</title>
+		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_138.mp3</link>
+		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_138.mp3" length="33722437" type="audio/x-mp3"/>
+		<pubDate>Tue, 15 Jun 2021 11:00:00 -0700</pubDate>
+		<description>The duo is back to talk about consulting scheduling and ransomware. Somehow this evolved to a discussion on Hipster Vulns and how auditing is the Crocs-n-SOCs of application security.</description>
+		<itunes:explicit>yes</itunes:explicit>
+	</item>
+    <item>
 		<title>Episode 137: CSRF, GraphQL, Kubernetes, Docker, NoSQL Injection</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_137.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_137.mp3" length="27923046" type="audio/x-mp3"/>
