@@ -23,6 +23,14 @@
 		<title>Absolute AppSec</title>
 	</image>
     <item>
+        <title>Episode Ep. 141 - print(), Cross-Site Scripting (XSS), RiskIQ, Amass Demo</title>
+        <link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_141.mp3</link>
+        <enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_141.mp3" length="35378576" type="audio/x-mp3"/>
+        <pubDate>Tue, 13 Jul 2021 11:00:00 -0700</pubDate>
+        <description>Just two grumpy old men with some AppSec sprinkled in. Topics this week include new research from portswigger using print to bypass new Chrome XSS iframe restrictions, how XSS is still the best (and worst) issue we deal with, and Microsoft's acquisition of RiskIQ.</description>
+        <itunes:explicit>no</itunes:explicit>
+    </item>
+    <item>
 		<title>Episode Ep. 140 - Naomi Buckwalter - Gatekeeping, Developing AppSec Resources</title>
 		<link>https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_140.mp3</link>
 		<enclosure url="https://absoluteappsec.com/episodes/Absolute_AppSec_Ep_140.mp3" length="36368729" type="audio/x-mp3"/>
